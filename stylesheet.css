@@ -1,0 +1,19 @@
+header {
+
+	
+	font-family: tahoma;
+	color: #140014;
+	font-weight: bold;
+	font-size: 46px;
+	text-align: center;
+	padding-top : 155px;
+}
+p {
+
+	
+	font-family: courier;
+	color: #660066;
+	font-variant: bold;
+	font-size: 26px;
+	text-align: center;
+}
